@@ -8,3 +8,10 @@ mascara
 wilcard
 numero de host
 numero de host utilizables de inicio y final.
+
+
+### Ipv4 network:
+
+## [Network ipv4(python) on replit](https://replit.com/@dariohimo/ipv4network?v=1)
+
+
